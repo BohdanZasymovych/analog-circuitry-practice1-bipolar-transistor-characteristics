@@ -1,0 +1,11 @@
+* 2N5401C - created March 10, 2011 copyright Cordell Audio
+.MODEL 2N5401C pnp
++IS=25e-15	BF=220 		VAF=196
++IKF=0.2	ISE=2e-15	NE=1.4		NF=1
++RB=60 		RC=2		RE=0.1
++CJE=35e-12 	MJE=0.40	VJE=0.75
++CJC=15e-12	MJC=0.55	VJC=0.75	FC=0.5
++TF=800e-12 	XTF=60	 	VTF=0		ITF=4
++TR=1.5e-9	BR=4		IKR=0		
++EG=1.1 	XTB=1.5		XTI=3		NC=2
++ISC=0		mfg=CA031011
